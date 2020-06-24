@@ -1,5 +1,5 @@
 123
-second app
-
+second app 2
+third change - resolve conflict
 
 prod issue fix
